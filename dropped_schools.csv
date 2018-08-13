@@ -1,0 +1,60 @@
+,year,school,coach,conference,salary,season,wins,losses,city_state,col_score,capacity,GSR,reduced_salary,wl_ratio
+11,2018-01-01,Penn State,James Franklin,Big Ten,4600000.0,2017-01-01,11,2,"University Park, Pennsylvania",,107282,84,4.6,0.8462
+21,2018-01-01,Kentucky,Mark Stoops,SEC,3750000.0,2017-01-01,7,6,"Lexington, Kentucky",,67606,73,3.75,0.5385
+22,2018-01-01,Georgia,Kirby Smart,SEC,3753600.0,2017-01-01,13,2,"Athens, Georgia",,92746,53,3.7536,0.8667
+43,2018-01-01,Vanderbilt,Derek Mason,SEC,2721834.0,2017-01-01,5,7,"Nashville, Tennessee",,41448,90,2.721834,0.4167
+47,2018-01-01,Boston College,Steve Addazio,ACC,2448949.0,2017-01-01,7,6,"Chestnut Hill, Massachusetts",,44500,90,2.448949,0.5385
+89,2018-01-01,Arkansas State,Blake Anderson,Sun Belt,750000.0,2017-01-01,7,5,"State University, Arkansas",,30964,76,0.75,0.5833
+97,2018-01-01,Northern Illinois,Rod Carey,MAC,623000.0,2017-01-01,8,5,"De Kalb, Illinois",,30998,84,0.623,0.6154
+121,2018-01-01,Air Force,Troy Calhoun,Mt. West,,2017-01-01,5,7,"USAF Academy, Colorado",,46692,81,,0.4167
+122,2018-01-01,Miami (Fla.),Mark Richt,ACC,,2017-01-01,10,3,"Coral Gables, Florida",199.0,75504,88,,0.7692
+123,2018-01-01,Southern California,Clay Helton,PAC-12,,2017-01-01,11,3,"Los Angeles, California",166.0,93607,73,,0.7857
+124,2018-01-01,Army,Jeff Monken,Ind.,,2017-01-01,10,3,"West Point, New York",114.0,38000,83,,0.7692
+125,2018-01-01,Syracuse,Dino Babers,ACC,,2017-01-01,4,8,"Syracuse, New York",83.0,49250,82,,0.3333
+126,2018-01-01,Brigham Young,Kalani Sitake,Ind.,,2017-01-01,4,9,"Provo, Utah",102.0,63470,52,,0.3077
+127,2018-01-01,Temple,Geoff Collins,AAC,,2017-01-01,7,6,"Philadelphia, Pennsylvania",100.0,68532,83,,0.5385
+128,2018-01-01,Baylor,Matt Rhule,Big 12,,2017-01-01,1,11,"Waco, Texas",81.0,45140,82,,0.0833
+129,2018-01-01,Tulane,Willie Fritz,AAC,,2017-01-01,5,7,"New Orleans, Louisiana",96.0,30000,84,,0.4167
+139,2017-01-01,Penn State,James Franklin,Big Ten,4500000.0,2016-01-01,11,3,"University Park, Pennsylvania",,107282,84,4.5,0.7857
+152,2017-01-01,Georgia,Kirby Smart,SEC,3753600.0,2016-01-01,8,5,"Athens, Georgia",,92746,53,3.7536,0.6154
+155,2017-01-01,Kentucky,Mark Stoops,SEC,3500000.0,2016-01-01,7,6,"Lexington, Kentucky",,67606,73,3.5,0.5385
+173,2017-01-01,Vanderbilt,Derek Mason,SEC,2556877.0,2016-01-01,6,7,"Nashville, Tennessee",,41448,90,2.556877,0.4615
+177,2017-01-01,Boston College,Steve Addazio,ACC,2333628.0,2016-01-01,7,6,"Chestnut Hill, Massachusetts",,44500,90,2.333628,0.5385
+205,2017-01-01,Air Force,Troy Calhoun,Mt. West,885000.0,2016-01-01,10,3,"USAF Academy, Colorado",,46692,81,0.885,0.7692
+216,2017-01-01,Arkansas State,Blake Anderson,Sun Belt,700000.0,2016-01-01,8,5,"State University, Arkansas",,30964,76,0.7,0.6154
+220,2017-01-01,Northern Illinois,Rod Carey,MAC,623000.0,2016-01-01,5,7,"De Kalb, Illinois",,30998,84,0.623,0.4167
+249,2017-01-01,Miami (Fla.),Mark Richt,ACC,,2016-01-01,9,4,"Coral Gables, Florida",199.0,75504,88,,0.6923
+250,2017-01-01,Baylor,Jim Grobe,Big 12,,2016-01-01,7,6,"Waco, Texas",81.0,45140,82,,0.5385
+251,2017-01-01,Southern California,Clay Helton,PAC-12,,2016-01-01,10,3,"Los Angeles, California",166.0,93607,73,,0.7692
+253,2017-01-01,Tulane,Willie Fritz,AAC,,2016-01-01,4,8,"New Orleans, Louisiana",96.0,30000,84,,0.3333
+254,2017-01-01,Southern Methodist,Chad Morris,AAC,,2016-01-01,5,7,"Dallas, Texas",95.0,32000,68,,0.4167
+255,2017-01-01,Brigham Young,Kalani Sitake,Ind.,,2016-01-01,9,4,"Provo, Utah",102.0,63470,52,,0.6923
+256,2017-01-01,Pittsburgh,Pat Narduzzi,ACC,,2016-01-01,8,5,"Pittsburgh, Pennsylvania",88.0,65050,74,,0.6154
+257,2017-01-01,Tulsa,Philip Montgomery,AAC,,2016-01-01,10,3,"Tulsa, Oklahoma",85.0,30000,71,,0.7692
+265,2016-01-01,Penn State,James Franklin,Big Ten,4400000.0,2015-01-01,7,6,"University Park, Pennsylvania",,107282,84,4.4,0.5385
+269,2016-01-01,Georgia,Mark Richt,SEC,4000000.0,2015-01-01,10,3,"Athens, Georgia",,92746,53,4.0,0.7692
+284,2016-01-01,Kentucky,Mark Stoops,SEC,3250000.0,2015-01-01,5,7,"Lexington, Kentucky",,67606,73,3.25,0.4167
+298,2016-01-01,Boston College,Steve Addazio,ACC,2585655.0,2015-01-01,3,9,"Chestnut Hill, Massachusetts",,44500,90,2.585655,0.25
+330,2016-01-01,Air Force,Troy Calhoun,Mt. West,892500.0,2015-01-01,8,6,"USAF Academy, Colorado",,46692,81,0.8925,0.5714
+343,2016-01-01,Arkansas State,Blake Anderson,Sun Belt,700000.0,2015-01-01,9,4,"State University, Arkansas",,30964,76,0.7,0.6923
+373,2016-01-01,Northern Illinois,Rod Carey,MAC,400000.0,2015-01-01,8,6,"De Kalb, Illinois",,30998,84,0.4,0.5714
+379,2016-01-01,Brigham Young,Bronco Mendenhall,Ind.,,2015-01-01,9,4,"Provo, Utah",102.0,63470,52,,0.6923
+380,2016-01-01,Southern California,Steve Sarkisian,PAC-12,,2015-01-01,8,6,"Los Angeles, California",166.0,93607,73,,0.5714
+381,2016-01-01,Southern Methodist,Chad Morris,AAC,,2015-01-01,2,10,"Dallas, Texas",95.0,32000,68,,0.1667
+382,2016-01-01,Vanderbilt,Derek Mason,SEC,,2015-01-01,4,8,"Nashville, Tennessee",,41448,90,,0.3333
+383,2016-01-01,Tulsa,Philip Montgomery,AAC,,2015-01-01,6,7,"Tulsa, Oklahoma",85.0,30000,71,,0.4615
+384,2016-01-01,Pittsburgh,Pat Narduzzi,ACC,,2015-01-01,8,5,"Pittsburgh, Pennsylvania",88.0,65050,74,,0.6154
+385,2016-01-01,Wake Forest,Dave Clawson,ACC,,2015-01-01,3,9,"Winston-Salem, North Carolina",84.0,31500,93,,0.25
+393,2015-01-01,Penn State,James Franklin,Big Ten,4300000.0,2014-01-01,7,6,"University Park, Pennsylvania",,107282,84,4.3,0.5385
+402,2015-01-01,Georgia,Mark Richt,SEC,3200000.0,2014-01-01,10,3,"Athens, Georgia",,92746,53,3.2,0.7692
+419,2015-01-01,Kentucky,Mark Stoops,SEC,2700000.0,2014-01-01,5,7,"Lexington, Kentucky",,67606,73,2.7,0.4167
+459,2015-01-01,Air Force,Troy Calhoun,Mt. West,866250.0,2014-01-01,10,3,"USAF Academy, Colorado",,46692,81,0.86625,0.7692
+470,2015-01-01,Arkansas State,Blake Anderson,Sun Belt,700000.0,2014-01-01,7,6,"State University, Arkansas",,30964,76,0.7,0.5385
+496,2015-01-01,Northern Illinois,Rod Carey,MAC,400000.0,2014-01-01,11,3,"De Kalb, Illinois",,30998,84,0.4,0.7857
+507,2015-01-01,Temple,Matt Rhule,AAC,,2014-01-01,6,6,"Philadelphia, Pennsylvania",100.0,68532,83,,0.5
+508,2015-01-01,Syracuse,Scott Shafer,ACC,,2014-01-01,3,9,"Syracuse, New York",83.0,49250,82,,0.25
+509,2015-01-01,Vanderbilt,Derek Mason,SEC,,2014-01-01,3,9,"Nashville, Tennessee",,41448,90,,0.25
+510,2015-01-01,Boston College,Steve Addazio,ACC,,2014-01-01,7,6,"Chestnut Hill, Massachusetts",,44500,90,,0.5385
+511,2015-01-01,Southern California,Steve Sarkisian,PAC-12,,2014-01-01,9,4,"Los Angeles, California",166.0,93607,73,,0.6923
+512,2015-01-01,Brigham Young,Bronco Mendenhall,Ind.,,2014-01-01,8,5,"Provo, Utah",102.0,63470,52,,0.6154
+513,2015-01-01,Wake Forest,Dave Clawson,ACC,,2014-01-01,3,9,"Winston-Salem, North Carolina",84.0,31500,93,,0.25

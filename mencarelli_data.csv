@@ -1,0 +1,515 @@
+year,school,coach,conference,salary,season,wins,losses,ties,city_state,col_score,capacity,GSR
+2018,Alabama,Nick Saban,SEC,11132000,2017,13,1,0,"Tuscaloosa, Alabama",95,101821,84
+2018,Clemson,Dabo Swinney,ACC,8504600,2017,12,2,0,"Clemson, South Carolina",100,81500,85
+2018,Michigan,Jim Harbaugh,Big Ten,7004000,2017,8,5,0,"Ann Arbor, Michigan",122,106201,82
+2018,Ohio State,Urban Meyer,Big Ten,6431240,2017,12,2,0,"Columbus, Ohio",84,104944,69
+2018,Arizona,Rich Rodriguez,Pac-12,5631563,2017,7,6,0,"Tucson, Arizona",95,57803,74
+2018,Florida State,Jimbo Fisher,ACC,5700000,2017,7,6,0,"Tallahassee, Florida",95,82300,74
+2018,Stanford,David Shaw,Pac-12,5680441,2017,9,5,0,"Stanford, California",615,50000,96
+2018,Texas,Tom Herman,Big 12,5486316,2017,7,6,0,"Austin, Texas",117,100119,71
+2018,Texas Christian,Gary Patterson,Big 12,5104077,2017,11,3,0,"Fort Worth, Texas",95,46000,73
+2018,Texas A&M,Kevin Sumlin,SEC,5000000,2017,7,6,0,"College Station, Texas",97,83002,68
+2018,Auburn,Gus Malzahn,SEC,4725000,2017,10,4,0,"Auburn, Alabama",104,87451,70
+2018,Penn State,James Franklin,Big Ten,4600000,2017,11,2,0,"University Park, Pennsylvania",0,107282,84
+2018,Iowa,Kirk Ferentz,Big Ten,4550000,2017,8,5,0,"Iowa City, Iowa",101,70585,76
+2018,Mississippi State,Dan Mullen,SEC,4500000,2017,9,4,0,"Mississippi State, Mississippi",92,61337,84
+2018,Florida,Jim McElwain,SEC,4457400,2017,4,7,0,"Gainesville, Florida",94,88548,74
+2018,Michigan State,Mark Dantonio,Big Ten,4380492,2017,10,3,0,"East Lansing, Michigan",94,75005,72
+2018,Arkansas,Bret Bielema,SEC,4200000,2017,4,8,0,"Fayetteville, Arkansas",91,72000,60
+2018,Oklahoma State,Mike Gundy,Big 12,4200000,2017,10,3,0,"Stillwater, Oklahoma",88,60218,51
+2018,Washington,Chris Petersen,Pac-12,4125000,2017,10,3,0,"Seattle, Washington",177,72500,81
+2018,Tennessee,Butch Jones,SEC,4110000,2017,4,8,0,"Knoxville, Tennessee",81,102455,65
+2018,Louisville,Bobby Petrino,ACC,3930434,2017,8,5,0,"Louisville, Kentucky",88,55000,76
+2018,Kentucky,Mark Stoops,SEC,3750000,2017,7,6,0,"Lexington, Kentucky",0,67606,73
+2018,Georgia,Kirby Smart,SEC,3753600,2017,13,2,0,"Athens, Georgia",0,92746,53
+2018,Utah,Kyle Whittingham,Pac-12,3687917,2017,7,6,0,"Salt Lake City, Utah",108,45017,83
+2018,UCLA,Jim Mora,Pac-12,3550000,2017,6,7,0,"Los Angeles, California",166,92542,83
+2018,West Virginia,Dana Holgorsen,Big 12,3505000,2017,7,6,0,"Morgantown, West Virginia",96,60000,63
+2018,Texas Tech,Kliff Kingsbury,Big 12,3503975,2017,6,7,0,"Lubbock, Texas",84,58930,70
+2018,Minnesota,P.J. Fleck,Big Ten,3500000,2017,5,7,0,"Minneapolis, Minnesota",109,50000,83
+2018,LSU,Ed Orgeron,SEC,3500000,2017,9,4,0,"Baton Rouge, Louisiana",87,92400,67
+2018,Virginia,Bronco Mendenhall,ACC,3400000,2017,6,7,0,"Charlottesville, Virginia",113,61500,82
+2018,Purdue,Jeff Brohm,Big Ten,3333333,2017,7,6,0,"West Lafayette, Indiana",96,62500,81
+2018,Northwestern,Pat Fitzgerald,Big Ten,3305818,2017,10,3,0,"Evanston, Illinois",130,49256,99
+2018,Virginia Tech,Justin Fuente,ACC,3250000,2017,9,4,0,"Blacksburg, Virginia",106,66233,86
+2018,Arizona State,Todd Graham,Pac-12,3200000,2017,7,6,0,"Tempe, Arizona",109,71706,76
+2018,Kansas State,Bill Snyder,Big 12,3200000,2017,8,5,0,"Manhattan, Kansas",99,50300,77
+2018,Wisconsin,Paul Chryst,Big Ten,3200000,2017,13,1,0,"Madison, Wisconsin",110,80321,74
+2018,South Carolina,Will Muschamp,SEC,3100000,2017,9,4,0,"Columbia, South Carolina",91,80250,98
+2018,Washington State,Mike Leach,Pac-12,3075000,2017,9,4,0,"Pullman, Washington",112,35117,77
+2018,Illinois,Lovie Smith,Big Ten,3000000,2017,2,10,0,"Champaign, Illinois",91,60670,77
+2018,Georgia Tech,Paul Johnson,ACC,2970891,2017,5,6,0,"Atlanta, Georgia",102,55000,82
+2018,Oregon,Willie Taggart,Pac-12,2900000,2017,7,6,0,"Eugene, Oregon",111,53800,67
+2018,Nebraska,Mike Riley,Big Ten,2900000,2017,4,8,0,"Lincoln, Nebraska",92,81091,85
+2018,Colorado,Mike MacIntyre,Pac-12,2803500,2017,5,7,0,"Boulder, Colorado",178,53613,79
+2018,Vanderbilt,Derek Mason,SEC,2721834,2017,5,7,0,"Nashville, Tennessee",0,41448,90
+2018,Oregon State,Gary Andersen,Pac-12,2650000,2017,1,11,0,"Corvallis, Oregon",126,46200,69
+2018,Duke,David Cutcliffe,ACC,2613638,2017,7,6,0,"Durham, North Carolina",97,33941,96
+2018,Maryland,DJ Durkin,Big Ten,2462000,2017,4,8,0,"College Park, Maryland",122,51500,79
+2018,Boston College,Steve Addazio,ACC,2448949,2017,7,6,0,"Chestnut Hill, Massachusetts",0,44500,90
+2018,Missouri,Barry Odom,SEC,2350000,2017,7,6,0,"Columbia, Missouri",93,71004,85
+2018,North Carolina,Larry Fedora,ACC,2290000,2017,3,9,0,"Chapel Hill, North Carolina",131,63000,66
+2018,North Carolina State,Dave Doeren,ACC,2212600,2017,9,4,0,"Raleigh, North Carolina",102,57583,74
+2018,Oklahoma,Lincoln Riley,Big 12,2116666,2017,12,2,0,"Norman, Oklahoma",88,82112,72
+2018,Rutgers,Chris Ash,Big Ten,2100000,2017,4,8,0,"Piscataway, New Jersey",126,52454,82
+2018,Iowa State,Matt Campbell,Big 12,2100000,2017,8,5,0,"Ames, Iowa",99,55000,77
+2018,Southern Methodist,Chad Morris,AAC,2095793,2017,7,6,0,"Dallas, Texas",95,32000,68
+2018,Navy,Ken Niumatalolo,AAC,2000000,2017,7,6,0,"Annapolis, Maryland",137,34000,79
+2018,Central Florida,Scott Frost,AAC,2000000,2017,13,0,0,"Orlando, Florida",96,45301,92
+2018,Cincinnati,Luke Fickell,AAC,1900000,2017,4,8,0,"Cincinnati, Ohio",86,35000,84
+2018,Memphis,Mike Norvell,AAC,1860000,2017,10,3,0,"Memphis, Tennessee",74,61008,75
+2018,Indiana,Tom Allen,Big Ten,1830000,2017,5,7,0,"Bloomington, Indiana",93,52929,84
+2018,Pittsburgh,Pat Narduzzi,ACC,1827735,2017,5,7,0,"Pittsburgh, Pennsylvania",88,65050,74
+2018,Wake Forest,Dave Clawson,ACC,1827370,2017,8,5,0,"Winston-Salem, North Carolina",84,31500,93
+2018,Houston,Major Applewhite,AAC,1750000,2017,7,5,0,"Houston, Texas",102,40000,60
+2018,Notre Dame,Brian Kelly,Ind.,1645867,2017,10,3,0,"Notre Dame, Indiana",85,80795,96
+2018,Kansas,David Beaty,Big 12,1601109,2017,1,11,0,"Lawrence, Kansas",96,50071,79
+2018,California,Justin Wilcox,Pac-12,1600000,2017,5,7,0,"Berkeley, California",248,63186,68
+2018,Boise State,Bryan Harsin,Mt. West,1550004,2017,11,3,0,"Boise, Idaho",103,37000,86
+2018,Fresno State,Jeff Tedford,Mt. West,1550000,2017,10,4,0,"Fresno, California",107,41031,68
+2018,Colorado State,Mike Bobo,Mt. West,1550000,2017,7,6,0,"Fort Collins, Colorado",124,41200,70
+2018,Wyoming,Craig Bohl,Mt. West,1412000,2017,8,5,0,"Laramie, Wyoming",104,29181,78
+2018,Tulsa,Philip Montgomery,AAC,1398038,2017,2,10,0,"Tulsa, Oklahoma",85,30000,71
+2018,Mississippi,Matt Luke,SEC,1160000,2017,6,6,0,"University, Mississippi",94,60580,68
+2018,Louisiana-Lafayette,Mark Hudspeth,Sun Belt,1150000,2017,5,7,0,"Lafayette, Louisiana",93,31000,83
+2018,Texas-San Antonio,Frank Wilson,C-USA,1137500,2017,6,5,0,"San Antonio, Texas",93,65000,82
+2018,East Carolina,Scottie Montgomery,AAC,1050000,2017,3,9,0,"Greenville, North Carolina",89,50000,68
+2018,Utah State,Matt Wells,Mt. West,1050000,2017,6,7,0,"Logan, Utah",97,30257,89
+2018,South Florida,Charlie Strong,AAC,1000000,2017,10,2,0,"Tampa, Florida",94,65857,73
+2018,Connecticut,Randy Edsall,AAC,1000000,2017,3,9,0,"Storrs, Connecticut",117,40000,80
+2018,North Texas,Seth Littrell,C-USA,991416,2017,9,5,0,"Denton, Texas",98,30850,76
+2018,Florida Atlantic,Lane Kiffin,C-USA,950000,2017,11,3,0,"Boca Raton, Florida",124,20450,75
+2018,Florida International,Butch Davis,C-USA,900000,2017,8,5,0,"Miami, Florida",123,23500,68
+2018,San Diego State,Rocky Long,Mt. West,826304,2017,10,3,0,"San Diego, California",166,70561,76
+2018,New Mexico,Bob Davie,Mt. West,822690,2017,3,9,0,"Albuquerque, New Mexico",97,42000,64
+2018,Middle Tennessee,Rick Stockstill,C-USA,801504,2017,7,6,0,"Murfreesboro, Tennessee",95,31000,85
+2018,Western Michigan,Tim Lester,MAC,800000,2017,6,6,0,"Kalamazoo, Michigan",78,30200,71
+2018,Western Kentucky,Mike Sanford Jr.,C-USA,800000,2017,6,7,0,"Bowling Green, Kentucky",93,22000,74
+2018,Troy,Neal Brown,Sun Belt,800000,2017,11,2,0,"Troy, Alabama",91,30000,68
+2018,Rice,David Bailiff,C-USA,772883,2017,1,11,0,"Houston, Texas",102,70000,91
+2018,Marshall,Doc Holliday,C-USA,762570,2017,8,5,0,"Huntington, West Virginia",77,38019,73
+2018,Arkansas State,Blake Anderson,Sun Belt,750000,2017,7,5,0,"State University, Arkansas",0,30964,76
+2018,Louisiana Tech,Skip Holtz,C-USA,700000,2017,7,6,0,"Ruston, Louisiana",91,30600,67
+2018,Toledo,Jason Candle,MAC,700000,2017,11,3,0,"Toledo, Ohio",77,26248,79
+2018,Appalachian State,Scott Satterfield,Sun Belt,675000,2017,9,4,0,"Boone, North Carolina",106,24050,74
+2018,Texas State,Everett Withers,Sun Belt,675000,2017,2,10,0,"San Marcos, Texas",87,30000,70
+2018,Old Dominion,Bobby Wilder,C-USA,650000,2017,5,7,0,"Norfolk, Virginia",98,19818,70
+2018,Alabama at Birmingham,Bill Clark,C-USA,630000,2017,8,5,0,"Birmingham, Alabama",73,71594,75
+2018,Charlotte,Brad Lambert,C-USA,625000,2017,1,11,0,"Charlotte, North Carolina",97,0,0
+2018,Northern Illinois,Rod Carey,MAC,623000,2017,8,5,0,"De Kalb, Illinois",0,30998,84
+2018,Nevada-Las Vegas,Tony Sanchez,Mt. West,600000,2017,5,7,0,"Las Vegas, Nevada",105,36800,56
+2018,San Jose State,Brent Brennan,Mt. West,581916,2017,2,11,0,"San Jose, California",222,30456,81
+2018,South Alabama,Joey Jones,Sun Belt,535260,2017,4,8,0,"Mobile, Alabama",84,40000,64
+2018,Georgia State,Shawn Elliott,Sun Belt,565000,2017,7,5,0,"Atlanta, Georgia",102,24333,33
+2018,Central Michigan,John Bonamego,MAC,545640,2017,8,5,0,"Mount Pleasant, Michigan",91,30255,72
+2018,Georgia Southern,Tyson Summers,Sun Belt,530000,2017,2,10,0,"Statesboro, Georgia",88,24300,63
+2018,Ohio,Frank Solich,MAC,522715,2017,9,4,0,"Athens, Ohio",93,24000,41
+2018,Miami (Ohio),Chuck Martin,MAC,522300,2017,5,7,0,"Oxford, Ohio",94,24286,85
+2018,Texas-El Paso,Sean Kugler,C-USA,515332,2017,0,12,0,"El Paso, Texas",84,52000,71
+2018,Southern Mississippi,Jay Hopson,C-USA,500000,2017,8,5,0,"Hattiesburg, Mississippi",89,36000,75
+2018,Massachusetts,Mark Whipple,Ind.,472654,2017,4,8,0,"Amherst, Massachusetts",134,68756,62
+2018,Nevada,Jay Norvell,Mt. West,450000,2017,3,9,0,"Reno, Nevada",117,29993,75
+2018,Idaho,Paul Petrino,Sun Belt,446214,2017,4,8,0,"Moscow, Idaho",108,16000,55
+2018,Eastern Michigan,Chris Creighton,MAC,442420,2017,5,7,0,"Ypsilanti, Michigan",91,30200,67
+2018,Ball State,Mike Neu,MAC,431375,2017,2,10,0,"Muncie, Indiana",76,22500,71
+2018,Bowling Green,Mike Jinks,MAC,428655,2017,2,10,0,"Bowling Green, Ohio",92,24000,82
+2018,Kent State,Paul Haynes,MAC,414030,2017,2,10,0,"Kent, Ohio",89,29287,77
+2018,Akron,Terry Bowden,MAC,411000,2017,7,7,0,"Akron, Ohio",79,30000,66
+2018,Buffalo,Lance Leipold,MAC,405500,2017,6,6,0,"Buffalo, New York",84,29013,67
+2018,Hawaii,Nick Rolovich,Mt. West,400008,2017,3,9,0,"Honolulu, Hawaii",200,50000,80
+2018,Coastal Carolina,Joe Moglia,Sun Belt,400000,2017,3,9,0,"Conway, South Carolina",90,0,78
+2018,Louisiana-Monroe,Matt Viator,Sun Belt,390000,2017,4,8,0,"Monroe, Louisiana",81,30427,64
+2018,New Mexico State,Doug Martin,Sun Belt,376044,2017,7,6,0,"Las Cruces, New Mexico",90,30343,67
+2018,Air Force,Troy Calhoun,Mt. West,,2017,5,7,0,"USAF Academy, Colorado",0,46692,81
+2018,Miami (Fla.),Mark Richt,ACC,,2017,10,3,0,"Coral Gables, Florida",199,75504,88
+2018,Southern California,Clay Helton,Pac-12,,2017,11,3,0,"Los Angeles, California",166,93607,73
+2018,Army,Jeff Monken,Ind.,,2017,10,3,0,"West Point, New York",114,38000,83
+2018,Syracuse,Dino Babers,ACC,,2017,4,8,0,"Syracuse, New York",83,49250,82
+2018,Brigham Young,Kalani Sitake,Ind.,,2017,4,9,0,"Provo, Utah",102,63470,52
+2018,Temple,Geoff Collins,AAC,,2017,7,6,0,"Philadelphia, Pennsylvania",100,68532,83
+2018,Baylor,Matt Rhule,Big 12,,2017,1,11,0,"Waco, Texas",81,45140,82
+2018,Tulane,Willie Fritz,AAC,,2017,5,7,0,"New Orleans, Louisiana",96,30000,84
+2017,Michigan,Jim Harbaugh,Big Ten,9004000,2016,10,3,0,"Ann Arbor, Michigan",122,106201,82
+2017,Alabama,Nick Saban,SEC,6939395,2016,14,1,0,"Tuscaloosa, Alabama",95,101821,84
+2017,Ohio State,Urban Meyer,Big Ten,6003000,2016,11,2,0,"Columbus, Ohio",84,104944,69
+2017,Oklahoma,Bob Stoops,Big 12,5550000,2016,11,2,0,"Norman, Oklahoma",88,82112,72
+2017,Florida State,Jimbo Fisher,ACC,5250000,2016,10,3,0,"Tallahassee, Florida",95,82300,74
+2017,Texas,Charlie Strong,Big 12,5200000,2016,5,7,0,"Austin, Texas",117,100119,71
+2017,Texas A&M,Kevin Sumlin,SEC,5000000,2016,8,5,0,"College Station, Texas",97,83002,68
+2017,Auburn,Gus Malzahn,SEC,4725000,2016,8,5,0,"Auburn, Alabama",104,87451,70
+2017,Mississippi,Hugh Freeze,SEC,4700000,2016,5,7,0,"University, Mississippi",94,60580,68
+2017,Penn State,James Franklin,Big Ten,4500000,2016,11,3,0,"University Park, Pennsylvania",0,107282,84
+2017,Iowa,Kirk Ferentz,Big Ten,4500000,2016,8,5,0,"Iowa City, Iowa",101,70585,76
+2017,Clemson,Dabo Swinney,ACC,4417500,2016,14,1,0,"Clemson, South Carolina",100,81500,85
+2017,LSU,Les Miles,SEC,4300000,2016,8,4,0,"Baton Rouge, Louisiana",87,92400,67
+2017,Michigan State,Mark Dantonio,Big Ten,4300000,2016,3,9,0,"East Lansing, Michigan",94,75005,72
+2017,Florida,Jim McElwain,SEC,4268325,2016,9,4,0,"Gainesville, Florida",94,88548,74
+2017,Mississippi State,Dan Mullen,SEC,4200000,2016,6,7,0,"Mississippi State, Mississippi",92,61337,84
+2017,Arkansas,Bret Bielema,SEC,4100000,2016,7,6,0,"Fayetteville, Arkansas",91,72000,60
+2017,Tennessee,Butch Jones,SEC,4110000,2016,9,4,0,"Knoxville, Tennessee",81,102455,65
+2017,Stanford,David Shaw,Pac-12,4067219,2016,10,3,0,"Stanford, California",615,50000,96
+2017,Texas Christian,Gary Patterson,Big 12,4014723,2016,6,7,0,"Fort Worth, Texas",95,46000,73
+2017,Louisville,Bobby Petrino,ACC,3880434,2016,9,4,0,"Louisville, Kentucky",88,55000,76
+2017,Oklahoma State,Mike Gundy,Big 12,3775000,2016,10,3,0,"Stillwater, Oklahoma",88,60218,51
+2017,Georgia,Kirby Smart,SEC,3753600,2016,8,5,0,"Athens, Georgia",0,92746,53
+2017,Utah,Kyle Whittingham,Pac-12,3650000,2016,9,4,0,"Salt Lake City, Utah",108,45017,83
+2017,Washington,Chris Petersen,Pac-12,3600000,2016,12,2,0,"Seattle, Washington",177,72500,81
+2017,Kentucky,Mark Stoops,SEC,3500000,2016,7,6,0,"Lexington, Kentucky",0,67606,73
+2017,UCLA,Jim Mora,Pac-12,3450000,2016,4,8,0,"Los Angeles, California",166,92542,83
+2017,Northwestern,Pat Fitzgerald,Big Ten,3350638,2016,7,6,0,"Evanston, Illinois",130,49256,99
+2017,Oregon,Mark Helfrich,Pac-12,3300000,2016,4,8,0,"Eugene, Oregon",111,53800,67
+2017,Texas Tech,Kliff Kingsbury,Big 12,3306575,2016,5,7,0,"Lubbock, Texas",84,58930,70
+2017,Virginia,Bronco Mendenhall,ACC,3275000,2016,2,10,0,"Charlottesville, Virginia",113,61500,82
+2017,Virginia Tech,Justin Fuente,ACC,3200000,2016,10,4,0,"Blacksburg, Virginia",106,66233,86
+2017,Kansas State,Bill Snyder,Big 12,3100000,2016,9,4,0,"Manhattan, Kansas",99,50300,77
+2017,Arizona State,Todd Graham,Pac-12,3100000,2016,5,7,0,"Tempe, Arizona",109,71706,76
+2017,Houston,Tom Herman,AAC,3000000,2016,9,4,0,"Houston, Texas",102,40000,60
+2017,South Carolina,Will Muschamp,SEC,3000000,2016,6,7,0,"Columbia, South Carolina",91,80250,98
+2017,West Virginia,Dana Holgorsen,Big 12,2980000,2016,10,3,0,"Morgantown, West Virginia",96,60000,63
+2017,Washington State,Mike Leach,Pac-12,2950000,2016,8,5,0,"Pullman, Washington",112,35117,77
+2017,California,Sonny Dykes,Pac-12,2900000,2016,5,7,0,"Berkeley, California",248,63186,68
+2017,Georgia Tech,Paul Johnson,ACC,2884361,2016,9,4,0,"Atlanta, Georgia",102,55000,82
+2017,Arizona,Rich Rodriguez,Pac-12,2500000,2016,3,9,0,"Tucson, Arizona",95,57803,74
+2017,Nebraska,Mike Riley,Big Ten,2800000,2016,9,4,0,"Lincoln, Nebraska",92,81091,85
+2017,Wisconsin,Paul Chryst,Big Ten,2700000,2016,11,3,0,"Madison, Wisconsin",110,80321,74
+2017,Vanderbilt,Derek Mason,SEC,2556877,2016,6,7,0,"Nashville, Tennessee",0,41448,90
+2017,Oregon State,Gary Andersen,Pac-12,2550000,2016,4,8,0,"Corvallis, Oregon",126,46200,69
+2017,Maryland,DJ Durkin,Big Ten,2412000,2016,6,7,0,"College Park, Maryland",122,51500,79
+2017,Missouri,Barry Odom,SEC,2350000,2016,4,8,0,"Columbia, Missouri",93,71004,85
+2017,Boston College,Steve Addazio,ACC,2333628,2016,7,6,0,"Chestnut Hill, Massachusetts",0,44500,90
+2017,Duke,David Cutcliffe,ACC,2320773,2016,4,8,0,"Durham, North Carolina",97,33941,96
+2017,Indiana,Kevin Wilson,Big Ten,2320000,2016,6,7,0,"Bloomington, Indiana",93,52929,84
+2017,Cincinnati,Tommy Tuberville,AAC,2200000,2016,4,8,0,"Cincinnati, Ohio",86,35000,84
+2017,North Carolina State,Dave Doeren,ACC,2200000,2016,7,6,0,"Raleigh, North Carolina",102,57583,74
+2017,Purdue,Darrell Hazell,Big Ten,2190000,2016,3,9,0,"West Lafayette, Indiana",96,62500,81
+2017,Wake Forest,Dave Clawson,ACC,2113166,2016,7,6,0,"Winston-Salem, North Carolina",84,31500,93
+2017,Colorado,Mike MacIntyre,Pac-12,2011050,2016,10,4,0,"Boulder, Colorado",178,53613,79
+2017,Navy,Ken Niumatalolo,AAC,2000000,2016,9,5,0,"Annapolis, Maryland",137,34000,79
+2017,Rutgers,Chris Ash,Big Ten,2000000,2016,2,10,0,"Piscataway, New Jersey",126,52454,82
+2017,Iowa State,Matt Campbell,Big 12,2000000,2016,3,9,0,"Ames, Iowa",99,55000,77
+2017,North Carolina,Larry Fedora,ACC,1986265,2016,8,5,0,"Chapel Hill, North Carolina",131,63000,66
+2017,Illinois,Lovie Smith,Big Ten,1809179,2016,3,9,0,"Champaign, Illinois",91,60670,77
+2017,Memphis,Mike Norvell,AAC,1800000,2016,8,5,0,"Memphis, Tennessee",74,61008,75
+2017,South Florida,Willie Taggart,AAC,1700000,2016,11,2,0,"Tampa, Florida",94,65857,73
+2017,Central Florida,Scott Frost,AAC,1700000,2016,6,7,0,"Orlando, Florida",96,45301,92
+2017,Connecticut,Bob Diaco,AAC,1700000,2016,3,9,0,"Storrs, Connecticut",117,40000,80
+2017,Notre Dame,Brian Kelly,Ind.,1624730,2016,4,8,0,"Notre Dame, Indiana",85,80795,96
+2017,Fresno State,Tim DeRuyter,Mt. West,1518480,2016,1,11,0,"Fresno, California",107,41031,68
+2017,Colorado State,Mike Bobo,Mt. West,1450000,2016,7,6,0,"Fort Collins, Colorado",124,41200,70
+2017,Minnesota,Tracy Claeys,Big Ten,1400000,2016,9,4,0,"Minneapolis, Minnesota",109,50000,83
+2017,Boise State,Bryan Harsin,Mt. West,1300004,2016,10,3,0,"Boise, Idaho",103,37000,86
+2017,Louisiana-Lafayette,Mark Hudspeth,Sun Belt,1100000,2016,6,7,0,"Lafayette, Louisiana",93,31000,83
+2017,Temple,Matt Rhule,AAC,1041739,2016,10,4,0,"Philadelphia, Pennsylvania",100,68532,83
+2017,East Carolina,Scottie Montgomery,AAC,1000000,2016,3,9,0,"Greenville, North Carolina",89,50000,68
+2017,Army,Jeff Monken,Ind.,932521,2016,8,5,0,"West Point, New York",114,38000,83
+2017,Wyoming,Craig Bohl,Mt. West,909000,2016,8,6,0,"Laramie, Wyoming",104,29181,78
+2017,Rice,David Bailiff,C-USA,903556,2016,3,9,0,"Houston, Texas",102,70000,91
+2017,Air Force,Troy Calhoun,Mt. West,885000,2016,10,3,0,"USAF Academy, Colorado",0,46692,81
+2017,Texas-San Antonio,Frank Wilson,C-USA,835000,2016,6,7,0,"San Antonio, Texas",93,65000,82
+2017,New Mexico,Bob Davie,Mt. West,822690,2016,9,4,0,"Albuquerque, New Mexico",97,42000,64
+2017,Western Michigan,P.J. Fleck,MAC,816360,2016,13,1,0,"Kalamazoo, Michigan",78,30200,71
+2017,North Texas,Seth Littrell,C-USA,815000,2016,5,8,0,"Denton, Texas",98,30850,76
+2017,San Diego State,Rocky Long,Mt. West,810632,2016,11,3,0,"San Diego, California",166,70561,76
+2017,Western Kentucky,Jeff Brohm,C-USA,805600,2016,11,3,0,"Bowling Green, Kentucky",93,22000,74
+2017,Middle Tennessee,Rick Stockstill,C-USA,801504,2016,8,5,0,"Murfreesboro, Tennessee",95,31000,85
+2017,Kansas,David Beaty,Big 12,801109,2016,2,10,0,"Lawrence, Kansas",96,50071,79
+2017,Utah State,Matt Wells,Mt. West,800000,2016,3,9,0,"Logan, Utah",97,30257,89
+2017,Marshall,Doc Holliday,C-USA,762570,2016,3,9,0,"Huntington, West Virginia",77,38019,73
+2017,Arkansas State,Blake Anderson,Sun Belt,700000,2016,8,5,0,"State University, Arkansas",0,30964,76
+2017,Toledo,Jason Candle,MAC,675000,2016,9,4,0,"Toledo, Ohio",77,26248,79
+2017,Troy,Neal Brown,Sun Belt,660000,2016,10,3,0,"Troy, Alabama",91,30000,68
+2017,Texas State,Everett Withers,Sun Belt,650000,2016,2,10,0,"San Marcos, Texas",87,30000,70
+2017,Northern Illinois,Rod Carey,MAC,623000,2016,5,7,0,"De Kalb, Illinois",0,30998,84
+2017,Florida International,Ron Turner,C-USA,609731,2016,4,8,0,"Miami, Florida",123,23500,68
+2017,Charlotte,Brad Lambert,C-USA,600000,2016,4,8,0,"Charlotte, North Carolina",97,0,0
+2017,Florida Atlantic,Charlie Partridge,C-USA,591250,2016,3,9,0,"Boca Raton, Florida",124,20450,75
+2017,Nevada,Brian Polian,Mt. West,575000,2016,5,7,0,"Reno, Nevada",117,29993,75
+2017,Ohio,Frank Solich,MAC,572715,2016,8,6,0,"Athens, Ohio",93,24000,41
+2017,Old Dominion,Bobby Wilder,C-USA,554590,2016,10,3,0,"Norfolk, Virginia",98,19818,70
+2017,South Alabama,Joey Jones,Sun Belt,525000,2016,6,7,0,"Mobile, Alabama",84,40000,64
+2017,San Jose State,Ron Caragher,Mt. West,546745,2016,4,8,0,"San Jose, California",222,30456,81
+2017,Central Michigan,John Bonamego,MAC,545640,2016,6,7,0,"Mount Pleasant, Michigan",91,30255,72
+2017,Georgia State,Trent Miles,Sun Belt,537405,2016,3,9,0,"Atlanta, Georgia",102,24333,33
+2017,Appalachian State,Scott Satterfield,Sun Belt,525000,2016,10,3,0,"Boone, North Carolina",106,24050,74
+2017,Texas-El Paso,Sean Kugler,C-USA,515332,2016,4,8,0,"El Paso, Texas",84,52000,71
+2017,Louisiana Tech,Skip Holtz,C-USA,500000,2016,9,5,0,"Ruston, Louisiana",91,30600,67
+2017,Nevada-Las Vegas,Tony Sanchez,Mt. West,510000,2016,4,8,0,"Las Vegas, Nevada",105,36800,56
+2017,Georgia Southern,Tyson Summers,Sun Belt,500000,2016,5,7,0,"Statesboro, Georgia",88,24300,63
+2017,Southern Mississippi,Jay Hopson,C-USA,500000,2016,7,6,0,"Hattiesburg, Mississippi",89,36000,75
+2017,Miami (Ohio),Chuck Martin,MAC,472300,2016,6,7,0,"Oxford, Ohio",94,24286,85
+2017,Massachusetts,Mark Whipple,Ind.,467965,2016,2,10,0,"Amherst, Massachusetts",134,68756,62
+2017,Eastern Michigan,Chris Creighton,MAC,434840,2016,7,6,0,"Ypsilanti, Michigan",91,30200,67
+2017,Ball State,Mike Neu,MAC,425000,2016,4,8,0,"Muncie, Indiana",76,22500,71
+2017,Idaho,Paul Petrino,Sun Belt,417104,2016,9,4,0,"Moscow, Idaho",108,16000,55
+2017,Akron,Terry Bowden,MAC,411000,2016,5,7,0,"Akron, Ohio",79,30000,66
+2017,Bowling Green,Mike Jinks,MAC,410000,2016,4,8,0,"Bowling Green, Ohio",92,24000,82
+2017,Kent State,Paul Haynes,MAC,405912,2016,3,9,0,"Kent, Ohio",89,29287,77
+2017,Buffalo,Lance Leipold,MAC,405500,2016,2,10,0,"Buffalo, New York",84,29013,67
+2017,Hawaii,Nick Rolovich,Mt. West,400008,2016,7,7,0,"Honolulu, Hawaii",200,50000,80
+2017,Louisiana-Monroe,Matt Viator,Sun Belt,390000,2016,4,8,0,"Monroe, Louisiana",81,30427,64
+2017,New Mexico State,Doug Martin,Sun Belt,376044,2016,3,9,0,"Las Cruces, New Mexico",90,30343,67
+2017,Miami (Fla.),Mark Richt,ACC,,2016,9,4,0,"Coral Gables, Florida",199,75504,88
+2017,Baylor,Jim Grobe,Big 12,,2016,7,6,0,"Waco, Texas",81,45140,82
+2017,Southern California,Clay Helton,Pac-12,,2016,10,3,0,"Los Angeles, California",166,93607,73
+2017,Syracuse,Dino Babers,ACC,,2016,4,8,0,"Syracuse, New York",83,49250,82
+2017,Tulane,Willie Fritz,AAC,,2016,4,8,0,"New Orleans, Louisiana",96,30000,84
+2017,Southern Methodist,Chad Morris,AAC,,2016,5,7,0,"Dallas, Texas",95,32000,68
+2017,Brigham Young,Kalani Sitake,Ind.,,2016,9,4,0,"Provo, Utah",102,63470,52
+2017,Pittsburgh,Pat Narduzzi,ACC,,2016,8,5,0,"Pittsburgh, Pennsylvania",88,65050,74
+2017,Tulsa,Philip Montgomery,AAC,,2016,10,3,0,"Tulsa, Oklahoma",85,30000,71
+2016,Alabama,Nick Saban,SEC,6932395,2015,14,1,0,"Tuscaloosa, Alabama",95,101821,84
+2016,Michigan,Jim Harbaugh,Big Ten,7004000,2015,10,3,0,"Ann Arbor, Michigan",122,106201,82
+2016,Ohio State,Urban Meyer,Big Ten,5860000,2015,12,1,0,"Columbus, Ohio",84,104944,69
+2016,Oklahoma,Bob Stoops,Big 12,5400000,2015,11,2,0,"Norman, Oklahoma",88,82112,72
+2016,Florida State,Jimbo Fisher,ACC,5150000,2015,10,3,0,"Tallahassee, Florida",95,82300,74
+2016,Texas,Charlie Strong,Big 12,5100000,2015,5,7,0,"Austin, Texas",117,100119,71
+2016,Texas A&M,Kevin Sumlin,SEC,5000000,2015,8,5,0,"College Station, Texas",97,83002,68
+2016,Penn State,James Franklin,Big Ten,4400000,2015,7,6,0,"University Park, Pennsylvania",0,107282,84
+2016,LSU,Les Miles,SEC,4300000,2015,9,3,0,"Baton Rouge, Louisiana",87,92400,67
+2016,Mississippi,Hugh Freeze,SEC,4300000,2015,10,3,0,"University, Mississippi",94,60580,68
+2016,Baylor,Art Briles,Big 12,4236073,2015,10,3,0,"Waco, Texas",81,45140,82
+2016,Georgia,Mark Richt,SEC,4000000,2015,10,3,0,"Athens, Georgia",0,92746,53
+2016,Auburn,Gus Malzahn,SEC,4100000,2015,7,6,0,"Auburn, Alabama",104,87451,70
+2016,Iowa,Kirk Ferentz,Big Ten,4075000,2015,12,2,0,"Iowa City, Iowa",101,70585,76
+2016,South Carolina,Steve Spurrier,SEC,4000000,2015,3,9,0,"Columbia, South Carolina",91,80250,98
+2016,Mississippi State,Dan Mullen,SEC,4000000,2015,9,4,0,"Mississippi State, Mississippi",92,61337,84
+2016,Florida,Jim McElwain,SEC,3983359,2015,10,4,0,"Gainesville, Florida",94,88548,74
+2016,Arkansas,Bret Bielema,SEC,3954166,2015,8,5,0,"Fayetteville, Arkansas",91,72000,60
+2016,Texas Christian,Gary Patterson,Big 12,3940026,2015,11,2,0,"Fort Worth, Texas",95,46000,73
+2016,Missouri,Gary Pinkel,SEC,3768889,2015,5,7,0,"Columbia, Missouri",93,71004,85
+2016,Michigan State,Mark Dantonio,Big Ten,3671520,2015,12,2,0,"East Lansing, Michigan",94,75005,72
+2016,Oklahoma State,Mike Gundy,Big 12,3650000,2015,10,3,0,"Stillwater, Oklahoma",88,60218,51
+2016,Tennessee,Butch Jones,SEC,3610000,2015,9,4,0,"Knoxville, Tennessee",81,102455,65
+2016,Washington,Chris Petersen,Pac-12,3400000,2015,7,6,0,"Seattle, Washington",177,72500,81
+2016,UCLA,Jim Mora,Pac-12,3350000,2015,8,5,0,"Los Angeles, California",166,92542,83
+2016,Clemson,Dabo Swinney,ACC,3300000,2015,14,1,0,"Clemson, South Carolina",100,81500,85
+2016,Kentucky,Mark Stoops,SEC,3250000,2015,5,7,0,"Lexington, Kentucky",0,67606,73
+2016,Arizona,Rich Rodriguez,Pac-12,2878844,2015,7,6,0,"Tucson, Arizona",95,57803,74
+2016,Virginia,Mike London,ACC,3196724,2015,4,8,0,"Charlottesville, Virginia",113,61500,82
+2016,Oregon,Mark Helfrich,Pac-12,3150000,2015,9,4,0,"Eugene, Oregon",111,53800,67
+2016,Texas Tech,Kliff Kingsbury,Big 12,3108000,2015,7,6,0,"Lubbock, Texas",84,58930,70
+2016,Louisville,Bobby Petrino,ACC,3000000,2015,8,5,0,"Louisville, Kentucky",88,55000,76
+2016,Arizona State,Todd Graham,Pac-12,3000000,2015,6,7,0,"Tempe, Arizona",109,71706,76
+2016,Kansas State,Bill Snyder,Big 12,3000000,2015,6,7,0,"Manhattan, Kansas",99,50300,77
+2016,West Virginia,Dana Holgorsen,Big 12,2880000,2015,8,5,0,"Morgantown, West Virginia",96,60000,63
+2016,Georgia Tech,Paul Johnson,ACC,2800000,2015,3,9,0,"Atlanta, Georgia",102,55000,82
+2016,Virginia Tech,Frank Beamer,ACC,2535925,2015,7,6,0,"Blacksburg, Virginia",106,66233,86
+2016,Washington State,Mike Leach,Pac-12,2750000,2015,9,4,0,"Pullman, Washington",112,35117,77
+2016,Nebraska,Mike Riley,Big Ten,2700000,2015,6,7,0,"Lincoln, Nebraska",92,81091,85
+2016,Utah,Kyle Whittingham,Pac-12,2600000,2015,10,3,0,"Salt Lake City, Utah",108,45017,83
+2016,Boston College,Steve Addazio,ACC,2585655,2015,3,9,0,"Chestnut Hill, Massachusetts",0,44500,90
+2016,Miami (Fla.),Al Golden,ACC,2539315,2015,8,5,0,"Coral Gables, Florida",199,75504,88
+2016,Minnesota,Jerry Kill,Big Ten,2500000,2015,6,7,0,"Minneapolis, Minnesota",109,50000,83
+2016,Northwestern,Pat Fitzgerald,Big Ten,2490858,2015,10,3,0,"Evanston, Illinois",130,49256,99
+2016,Oregon State,Gary Andersen,Pac-12,2450000,2015,2,10,0,"Corvallis, Oregon",126,46200,69
+2016,Wisconsin,Paul Chryst,Big Ten,2300000,2015,10,3,0,"Madison, Wisconsin",110,80321,74
+2016,Stanford,David Shaw,Pac-12,2224435,2015,12,2,0,"Stanford, California",615,50000,96
+2016,Iowa State,Paul Rhoads,Big 12,2200000,2015,3,9,0,"Ames, Iowa",99,55000,77
+2016,Cincinnati,Tommy Tuberville,AAC,2200000,2015,7,6,0,"Cincinnati, Ohio",86,35000,84
+2016,North Carolina State,Dave Doeren,ACC,2200000,2015,7,6,0,"Raleigh, North Carolina",102,57583,74
+2016,Purdue,Darrell Hazell,Big Ten,2140000,2015,2,10,0,"West Lafayette, Indiana",96,62500,81
+2016,Maryland,Randy Edsall,Big Ten,2110648,2015,3,9,0,"College Park, Maryland",122,51500,79
+2016,Duke,David Cutcliffe,ACC,2049055,2015,8,5,0,"Durham, North Carolina",97,33941,96
+2016,Colorado,Mike MacIntyre,Pac-12,2009778,2015,4,9,0,"Boulder, Colorado",178,53613,79
+2016,California,Sonny Dykes,Pac-12,2000000,2015,8,5,0,"Berkeley, California",248,63186,68
+2016,North Carolina,Larry Fedora,ACC,1931000,2015,11,3,0,"Chapel Hill, North Carolina",131,63000,66
+2016,Central Florida,George O'Leary,AAC,1890000,2015,0,12,0,"Orlando, Florida",96,45301,92
+2016,Navy,Ken Niumatalolo,AAC,1637803,2015,11,2,0,"Annapolis, Maryland",137,34000,79
+2016,Connecticut,Bob Diaco,AAC,1550000,2015,6,7,0,"Storrs, Connecticut",117,40000,80
+2016,Fresno State,Tim DeRuyter,Mt. West,1457745,2015,3,9,0,"Fresno, California",107,41031,68
+2016,Houston,Tom Herman,AAC,1450000,2015,13,1,0,"Houston, Texas",102,40000,60
+2016,East Carolina,Ruffin McNeill,AAC,1414610,2015,5,7,0,"Greenville, North Carolina",89,50000,68
+2016,Memphis,Justin Fuente,AAC,1400000,2015,9,4,0,"Memphis, Tennessee",74,61008,75
+2016,Colorado State,Mike Bobo,Mt. West,1350000,2015,7,6,0,"Fort Collins, Colorado",124,41200,70
+2016,Indiana,Kevin Wilson,Big Ten,1312277,2015,6,7,0,"Bloomington, Indiana",93,52929,84
+2016,Syracuse,Scott Shafer,ACC,1302721,2015,4,8,0,"Syracuse, New York",83,49250,82
+2016,Rutgers,Kyle Flood,Big Ten,1250000,2015,4,8,0,"Piscataway, New Jersey",126,52454,82
+2016,Notre Dame,Brian Kelly,Ind.,1187272,2015,10,3,0,"Notre Dame, Indiana",85,80795,96
+2016,South Florida,Willie Taggart,AAC,1150000,2015,8,5,0,"Tampa, Florida",94,65857,73
+2016,Boise State,Bryan Harsin,Mt. West,1100004,2015,9,4,0,"Boise, Idaho",103,37000,86
+2016,Louisiana-Lafayette,Mark Hudspeth,Sun Belt,1050000,2015,4,8,0,"Lafayette, Louisiana",93,31000,83
+2016,Tulane,Curtis Johnson,AAC,926000,2015,3,9,0,"New Orleans, Louisiana",96,30000,84
+2016,Air Force,Troy Calhoun,Mt. West,892500,2015,8,6,0,"USAF Academy, Colorado",0,46692,81
+2016,Illinois,Bill Cubit,Big Ten,915000,2015,5,7,0,"Champaign, Illinois",91,60670,77
+2016,Army,Jeff Monken,Ind.,883000,2015,2,10,0,"West Point, New York",114,38000,83
+2016,Wyoming,Craig Bohl,Mt. West,882000,2015,2,10,0,"Laramie, Wyoming",104,29181,78
+2016,Middle Tennessee,Rick Stockstill,C-USA,801504,2015,7,6,0,"Murfreesboro, Tennessee",95,31000,85
+2016,San Diego State,Rocky Long,Mt. West,806300,2015,11,3,0,"San Diego, California",166,70561,76
+2016,Rice,David Bailiff,C-USA,805088,2015,5,7,0,"Houston, Texas",102,70000,91
+2016,Western Michigan,P.J. Fleck,MAC,800000,2015,8,5,0,"Kalamazoo, Michigan",78,30200,71
+2016,Kansas,David Beaty,Big 12,801169,2015,0,12,0,"Lawrence, Kansas",96,50071,79
+2016,New Mexico,Bob Davie,Mt. West,772690,2015,7,6,0,"Albuquerque, New Mexico",97,42000,64
+2016,Marshall,Doc Holliday,C-USA,755500,2015,10,3,0,"Huntington, West Virginia",77,38019,73
+2016,Utah State,Matt Wells,Mt. West,750000,2015,6,7,0,"Logan, Utah",97,30257,89
+2016,North Texas,Dan McCarney,C-USA,720000,2015,1,11,0,"Denton, Texas",98,30850,76
+2016,Arkansas State,Blake Anderson,Sun Belt,700000,2015,9,4,0,"State University, Arkansas",0,30964,76
+2016,Southern Mississippi,Todd Monken,C-USA,700000,2015,9,5,0,"Hattiesburg, Mississippi",89,36000,75
+2016,Troy,Neal Brown,Sun Belt,660000,2015,4,8,0,"Troy, Alabama",91,30000,68
+2016,Temple,Matt Rhule,AAC,648633,2015,10,4,0,"Philadelphia, Pennsylvania",100,68532,83
+2016,Hawaii,Norm Chow,Mt. West,550000,2015,3,10,0,"Honolulu, Hawaii",200,50000,80
+2016,Western Kentucky,Jeff Brohm,C-USA,610800,2015,12,2,0,"Bowling Green, Kentucky",93,22000,74
+2016,Florida International,Ron Turner,C-USA,604190,2015,5,7,0,"Miami, Florida",123,23500,68
+2016,Charlotte,Brad Lambert,C-USA,600000,2015,2,10,0,"Charlotte, North Carolina",97,0,0
+2016,Nevada,Brian Polian,Mt. West,575000,2015,7,6,0,"Reno, Nevada",117,29993,75
+2016,Old Dominion,Bobby Wilder,C-USA,550000,2015,5,7,0,"Norfolk, Virginia",98,19818,70
+2016,Ohio,Frank Solich,MAC,562760,2015,8,5,0,"Athens, Ohio",93,24000,41
+2016,South Alabama,Joey Jones,Sun Belt,525000,2015,5,7,0,"Mobile, Alabama",84,40000,64
+2016,Nevada-Las Vegas,Tony Sanchez,Mt. West,560000,2015,3,9,0,"Las Vegas, Nevada",105,36800,56
+2016,San Jose State,Ron Caragher,Mt. West,540745,2015,6,7,0,"San Jose, California",222,30456,81
+2016,Central Michigan,John Bonamego,MAC,533500,2015,7,6,0,"Mount Pleasant, Michigan",91,30255,72
+2016,Georgia State,Trent Miles,Sun Belt,523500,2015,6,7,0,"Atlanta, Georgia",102,24333,33
+2016,Florida Atlantic,Charlie Partridge,C-USA,525000,2015,3,9,0,"Boca Raton, Florida",124,20450,75
+2016,Ball State,Pete Lembo,MAC,514250,2015,3,9,0,"Muncie, Indiana",76,22500,71
+2016,Louisiana Tech,Skip Holtz,C-USA,500000,2015,9,4,0,"Ruston, Louisiana",91,30600,67
+2016,Texas-El Paso,Sean Kugler,C-USA,509541,2015,5,7,0,"El Paso, Texas",84,52000,71
+2016,Georgia Southern,Willie Fritz,Sun Belt,500000,2015,9,4,0,"Statesboro, Georgia",88,24300,63
+2016,Toledo,Matt Campbell,MAC,495000,2015,10,2,0,"Toledo, Ohio",77,26248,79
+2016,Massachusetts,Mark Whipple,MAC,450000,2015,3,9,0,"Amherst, Massachusetts",134,68756,62
+2016,Miami (Ohio),Chuck Martin,MAC,450000,2015,3,9,0,"Oxford, Ohio",94,24286,85
+2016,Texas-San Antonio,Larry Coker,C-USA,425000,2015,3,9,0,"San Antonio, Texas",93,65000,82
+2016,Texas State,Dennis Franchione,Sun Belt,425000,2015,3,9,0,"San Marcos, Texas",87,30000,70
+2016,Eastern Michigan,Chris Creighton,MAC,425000,2015,1,11,0,"Ypsilanti, Michigan",91,30200,67
+2016,Idaho,Paul Petrino,Sun Belt,413526,2015,4,8,0,"Moscow, Idaho",108,16000,55
+2016,Bowling Green,Dino Babers,MAC,413000,2015,10,4,0,"Bowling Green, Ohio",92,24000,82
+2016,Akron,Terry Bowden,MAC,406000,2015,8,5,0,"Akron, Ohio",79,30000,66
+2016,Northern Illinois,Rod Carey,MAC,400000,2015,8,6,0,"De Kalb, Illinois",0,30998,84
+2016,Buffalo,Lance Leipold,MAC,400000,2015,5,7,0,"Buffalo, New York",84,29013,67
+2016,Kent State,Paul Haynes,MAC,390150,2015,3,9,0,"Kent, Ohio",89,29287,77
+2016,New Mexico State,Doug Martin,Sun Belt,376044,2015,3,9,0,"Las Cruces, New Mexico",90,30343,67
+2016,Appalachian State,Scott Satterfield,Sun Belt,375000,2015,11,2,0,"Boone, North Carolina",106,24050,74
+2016,Louisiana-Monroe,Todd Berry,Sun Belt,360000,2015,2,11,0,"Monroe, Louisiana",81,30427,64
+2016,Brigham Young,Bronco Mendenhall,Ind.,,2015,9,4,0,"Provo, Utah",102,63470,52
+2016,Southern California,Steve Sarkisian,Pac-12,,2015,8,6,0,"Los Angeles, California",166,93607,73
+2016,Southern Methodist,Chad Morris,AAC,,2015,2,10,0,"Dallas, Texas",95,32000,68
+2016,Vanderbilt,Derek Mason,SEC,,2015,4,8,0,"Nashville, Tennessee",0,41448,90
+2016,Tulsa,Philip Montgomery,AAC,,2015,6,7,0,"Tulsa, Oklahoma",85,30000,71
+2016,Pittsburgh,Pat Narduzzi,ACC,,2015,8,5,0,"Pittsburgh, Pennsylvania",88,65050,74
+2016,Wake Forest,Dave Clawson,ACC,,2015,3,9,0,"Winston-Salem, North Carolina",84,31500,93
+2015,Alabama,Nick Saban,SEC,6950203,2014,12,2,0,"Tuscaloosa, Alabama",95,101821,84
+2015,Michigan State,Mark Dantonio,Big Ten,5611845,2014,11,2,0,"East Lansing, Michigan",94,75005,72
+2015,Oklahoma,Bob Stoops,Big 12,5058333,2014,8,5,0,"Norman, Oklahoma",88,82112,72
+2015,Texas A&M,Kevin Sumlin,SEC,5000000,2014,8,5,0,"College Station, Texas",97,83002,68
+2015,Texas,Charlie Strong,Big 12,5000000,2014,6,7,0,"Austin, Texas",117,100119,71
+2015,Ohio State,Urban Meyer,Big Ten,4486640,2014,14,1,0,"Columbus, Ohio",84,104944,69
+2015,LSU,Les Miles,SEC,4300000,2014,8,5,0,"Baton Rouge, Louisiana",87,92400,67
+2015,Penn State,James Franklin,Big Ten,4300000,2014,7,6,0,"University Park, Pennsylvania",0,107282,84
+2015,Iowa,Kirk Ferentz,Big Ten,4075000,2014,7,6,0,"Iowa City, Iowa",101,70585,76
+2015,South Carolina,Steve Spurrier,SEC,4000000,2014,7,6,0,"Columbia, South Carolina",91,80250,98
+2015,Texas Christian,Gary Patterson,Big 12,4008150,2014,12,1,0,"Fort Worth, Texas",95,46000,73
+2015,Auburn,Gus Malzahn,SEC,3850000,2014,8,5,0,"Auburn, Alabama",104,87451,70
+2015,Washington,Chris Petersen,PAC-12,3681720,2014,8,6,0,"Seattle, Washington",177,72500,81
+2015,Florida State,Jimbo Fisher,ACC,3591667,2014,13,1,0,"Tallahassee, Florida",95,82300,74
+2015,Oklahoma State,Mike Gundy,Big 12,3500000,2014,7,6,0,"Stillwater, Oklahoma",88,60218,51
+2015,Missouri,Gary Pinkel,SEC,3400000,2014,11,3,0,"Columbia, Missouri",93,71004,85
+2015,Georgia,Mark Richt,SEC,3200000,2014,10,3,0,"Athens, Georgia",0,92746,53
+2015,Arizona,Rich Rodriguez,PAC-12,2898500,2014,10,4,0,"Tucson, Arizona",95,57803,74
+2015,UCLA,Jim Mora,PAC-12,3250000,2014,10,3,0,"Los Angeles, California",166,92542,83
+2015,Arkansas,Bret Bielema,SEC,3200000,2014,7,6,0,"Fayetteville, Arkansas",91,72000,60
+2015,Clemson,Dabo Swinney,ACC,3150000,2014,10,3,0,"Clemson, South Carolina",100,81500,85
+2015,Baylor,Art Briles,Big 12,3135146,2014,11,2,0,"Waco, Texas",81,45140,82
+2015,West Virginia,Dana Holgorsen,Big 12,3080000,2014,7,6,0,"Morgantown, West Virginia",96,60000,63
+2015,Nebraska,Bo Pelini,Big Ten,3077646,2014,9,4,0,"Lincoln, Nebraska",92,81091,85
+2015,Mississippi,Hugh Freeze,SEC,3000000,2014,9,4,0,"University, Mississippi",94,60580,68
+2015,Louisville,Bobby Petrino,ACC,3000000,2014,9,4,0,"Louisville, Kentucky",88,55000,76
+2015,Mississippi State,Dan Mullen,SEC,3000000,2014,10,3,0,"Mississippi State, Mississippi",92,61337,84
+2015,Tennessee,Butch Jones,SEC,2960000,2014,7,6,0,"Knoxville, Tennessee",81,102455,65
+2015,Kansas State,Bill Snyder,Big 12,2900000,2014,9,4,0,"Manhattan, Kansas",99,50300,77
+2015,Michigan,Brady Hoke,Big Ten,2854000,2014,5,7,0,"Ann Arbor, Michigan",122,106201,82
+2015,Washington State,Mike Leach,PAC-12,2750000,2014,3,9,0,"Pullman, Washington",112,35117,77
+2015,Florida,Will Muschamp,SEC,2724500,2014,7,5,0,"Gainesville, Florida",94,88548,74
+2015,Arizona State,Todd Graham,PAC-12,2700000,2014,10,3,0,"Tempe, Arizona",109,71706,76
+2015,Kentucky,Mark Stoops,SEC,2700000,2014,5,7,0,"Lexington, Kentucky",0,67606,73
+2015,Virginia Tech,Frank Beamer,ACC,2420913,2014,7,6,0,"Blacksburg, Virginia",106,66233,86
+2015,Texas Tech,Kliff Kingsbury,Big 12,2605000,2014,4,8,0,"Lubbock, Texas",84,58930,70
+2015,Georgia Tech,Paul Johnson,ACC,2588000,2014,11,3,0,"Atlanta, Georgia",102,55000,82
+2015,Kansas,Charlie Weis,Big 12,2500000,2014,3,9,0,"Lawrence, Kansas",96,50071,79
+2015,Northwestern,Pat Fitzgerald,Big Ten,2480967,2014,5,7,0,"Evanston, Illinois",130,49256,99
+2015,Virginia,Mike London,ACC,2298413,2014,5,7,0,"Charlottesville, Virginia",113,61500,82
+2015,Wisconsin,Gary Andersen,Big Ten,2200000,2014,11,3,0,"Madison, Wisconsin",110,80321,74
+2015,Miami,Al Golden,ACC,2250943,2014,6,7,0,"Coral Gables, Florida",199,75504,88
+2015,Utah,Kyle Whittingham,PAC-12,2200000,2014,9,4,0,"Salt Lake City, Utah",108,45017,83
+2015,Cincinnati,Tommy Tuberville,AAC,2200000,2014,9,4,0,"Cincinnati, Ohio",86,35000,84
+2015,Minnesota,Jerry Kill,Big Ten,2100000,2014,8,5,0,"Minneapolis, Minnesota",109,50000,83
+2015,Purdue,Darrell Hazell,Big Ten,2090000,2014,3,9,0,"West Lafayette, Indiana",96,62500,81
+2015,Maryland,Randy Edsall,Big Ten,2033680,2014,7,6,0,"College Park, Maryland",122,51500,79
+2015,Southern Methodist,June Jones,AAC,2019718,2014,1,11,0,"Dallas, Texas",95,32000,68
+2015,Stanford,David Shaw,PAC-12,2012666,2014,8,5,0,"Stanford, California",615,50000,96
+2015,Colorado,Mike MacIntyre,PAC-12,2008500,2014,2,10,0,"Boulder, Colorado",178,53613,79
+2015,Oregon,Mark Helfrich,PAC-12,2000000,2014,13,2,0,"Eugene, Oregon",111,53800,67
+2015,Illinois,Tim Beckman,Big Ten,1950000,2014,6,7,0,"Champaign, Illinois",91,60670,77
+2015,Duke,David Cutcliffe,ACC,1840341,2014,9,4,0,"Durham, North Carolina",97,33941,96
+2015,North Carolina,Larry Fedora,ACC,1830000,2014,6,7,0,"Chapel Hill, North Carolina",131,63000,66
+2015,Iowa State,Paul Rhoads,Big 12,1800000,2014,2,10,0,"Ames, Iowa",99,55000,77
+2015,California,Sonny Dykes,PAC-12,1800000,2014,5,7,0,"Berkeley, California",248,63186,68
+2015,North Carolina State,Dave Doeren,ACC,1800000,2014,8,5,0,"Raleigh, North Carolina",102,57583,74
+2015,Central Florida,George O'Leary,AAC,1800000,2014,9,4,0,"Orlando, Florida",96,45301,92
+2015,Pittsburgh,Paul Chryst,ACC,1578757,2014,6,7,0,"Pittsburgh, Pennsylvania",88,65050,74
+2015,Navy,Ken Niumatalolo,Ind.,1574810,2014,8,5,0,"Annapolis, Maryland",137,34000,79
+2015,Oregon State,Mike Riley,PAC-12,1510008,2014,5,7,0,"Corvallis, Oregon",126,46200,69
+2015,Connecticut,Bob Diaco,AAC,1500000,2014,2,10,0,"Storrs, Connecticut",117,40000,80
+2015,Colorado State,Jim McElwain,Mt. West,1500000,2014,10,3,0,"Fort Collins, Colorado",124,41200,70
+2015,Notre Dame,Brian Kelly,Ind.,1457284,2014,8,5,0,"Notre Dame, Indiana",85,80795,96
+2015,Fresno State,Tim DeRuyter,Mt. West,1400000,2014,6,8,0,"Fresno, California",107,41031,68
+2015,Indiana,Kevin Wilson,Big Ten,1301644,2014,4,8,0,"Bloomington, Indiana",93,52929,84
+2015,East Carolina,Ruffin McNeill,AAC,1250000,2014,8,5,0,"Greenville, North Carolina",89,50000,68
+2015,South Florida,Willie Taggart,AAC,1150000,2014,4,8,0,"Tampa, Florida",94,65857,73
+2015,Houston,Tony Levine,AAC,1025000,2014,8,5,0,"Houston, Texas",102,40000,60
+2015,Memphis,Justin Fuente,AAC,1006779,2014,10,3,0,"Memphis, Tennessee",74,61008,75
+2015,Louisiana-Lafayette,Mark Hudspeth,Sun Belt,1000000,2014,9,4,0,"Lafayette, Louisiana",93,31000,83
+2015,Boise State,Bryan Harsin,Mt. West,1000004,2014,12,2,0,"Boise, Idaho",103,37000,86
+2015,Rutgers,Kyle Flood,Big Ten,975000,2014,8,5,0,"Piscataway, New Jersey",126,52454,82
+2015,Air Force,Troy Calhoun,Mt. West,866250,2014,10,3,0,"USAF Academy, Colorado",0,46692,81
+2015,Tulane,Curtis Johnson,AAC,867000,2014,3,9,0,"New Orleans, Louisiana",96,30000,84
+2015,Nevada-Las Vegas,Bobby Hauck,Mt. West,850000,2014,2,11,0,"Las Vegas, Nevada",105,36800,56
+2015,Army,Jeff Monken,Ind.,834667,2014,4,8,0,"West Point, New York",114,38000,83
+2015,Wyoming,Craig Bohl,Mt. West,832000,2014,4,8,0,"Laramie, Wyoming",104,29181,78
+2015,Middle Tennessee State,Rick Stockstill,CUSA,801504,2014,6,6,0,"Murfreesboro, Tennessee",95,31000,85
+2015,San Diego State,Rocky Long,Mt. West,800000,2014,7,6,0,"San Diego, California",166,70561,76
+2015,New Mexico,Bob Davie,Mt. West,772690,2014,4,8,0,"Albuquerque, New Mexico",97,42000,64
+2015,Rice,David Bailiff,CUSA,780243,2014,8,5,0,"Houston, Texas",102,70000,91
+2015,Tulsa,Bill Blankenship,AAC,759436,2014,2,10,0,"Tulsa, Oklahoma",85,30000,71
+2015,North Texas,Dan McCarney,CUSA,710000,2014,4,8,0,"Denton, Texas",98,30850,76
+2015,Arkansas State,Blake Anderson,Sun Belt,700000,2014,7,6,0,"State University, Arkansas",0,30964,76
+2015,Southern Mississippi,Todd Monken,CUSA,700000,2014,3,9,0,"Hattiesburg, Mississippi",89,36000,75
+2015,Hawaii,Norm Chow,Mt. West,550000,2014,4,9,0,"Honolulu, Hawaii",200,50000,80
+2015,Marshall,Doc Holliday,CUSA,607070,2014,13,1,0,"Huntington, West Virginia",77,38019,73
+2015,Western Kentucky,Jeff Brohm,CUSA,600000,2014,8,5,0,"Bowling Green, Kentucky",93,22000,74
+2015,Utah State,Matt Wells,Mt. West,575000,2014,10,4,0,"Logan, Utah",97,30257,89
+2015,Nevada,Brian Polian,Mt. West,575000,2014,7,6,0,"Reno, Nevada",117,29993,75
+2015,Ohio,Frank Solich,MAC,553000,2014,6,6,0,"Athens, Ohio",93,24000,41
+2015,Florida International,Ron Turner,CUSA,550000,2014,4,8,0,"Miami, Florida",123,23500,68
+2015,San Jose State,Ron Caragher,Mt. West,525000,2014,3,9,0,"San Jose, California",222,30456,81
+2015,Troy,Larry Blakeney,Sun Belt,518788,2014,3,9,0,"Troy, Alabama",91,30000,68
+2015,Louisiana Tech,Skip Holtz,CUSA,500000,2014,9,5,0,"Ruston, Louisiana",91,30600,67
+2015,Georgia State,Trent Miles,Sun Belt,510000,2014,1,11,0,"Atlanta, Georgia",102,24333,33
+2015,Texas-El Paso,Sean Kugler,CUSA,503864,2014,7,6,0,"El Paso, Texas",84,52000,71
+2015,Ball State,Pete Lembo,MAC,500000,2014,5,7,0,"Muncie, Indiana",76,22500,71
+2015,Florida Atlantic,Charlie Partridge,CUSA,500000,2014,3,9,0,"Boca Raton, Florida",124,20450,75
+2015,Alabama at Birmingham,Bill Clark,CUSA,500000,2014,6,6,0,"Birmingham, Alabama",73,71594,75
+2015,Old Dominion,Bobby Wilder,CUSA,475000,2014,6,6,0,"Norfolk, Virginia",98,19818,70
+2015,Toledo,Matt Campbell,MAC,470500,2014,9,4,0,"Toledo, Ohio",77,26248,79
+2015,South Alabama,Joey Jones,Sun Belt,435000,2014,6,7,0,"Mobile, Alabama",84,40000,64
+2015,Miami (Ohio),Chuck Martin,MAC,450000,2014,2,10,0,"Oxford, Ohio",94,24286,85
+2015,Massachusetts,Mark Whipple,MAC,450000,2014,3,9,0,"Amherst, Massachusetts",134,68756,62
+2015,Eastern Michigan,Chris Creighton,MAC,425000,2014,2,10,0,"Ypsilanti, Michigan",91,30200,67
+2015,Akron,Terry Bowden,MAC,406000,2014,5,7,0,"Akron, Ohio",79,30000,66
+2015,Bowling Green,Dino Babers,MAC,405000,2014,8,6,0,"Bowling Green, Ohio",92,24000,82
+2015,Texas-San Antonio,Larry Coker,CUSA,400000,2014,4,8,0,"San Antonio, Texas",93,65000,82
+2015,Northern Illinois,Rod Carey,MAC,400000,2014,11,3,0,"De Kalb, Illinois",0,30998,84
+2015,Texas State,Dennis Franchione,Sun Belt,400000,2014,7,5,0,"San Marcos, Texas",87,30000,70
+2015,Idaho,Paul Petrino,Sun Belt,400011,2014,1,10,0,"Moscow, Idaho",108,16000,55
+2015,Georgia Southern,Willie Fritz,Sun Belt,400000,2014,9,3,0,"Statesboro, Georgia",88,24300,63
+2015,Western Michigan,P.J. Fleck,MAC,392500,2014,8,5,0,"Kalamazoo, Michigan",78,30200,71
+2015,Kent State,Paul Haynes,MAC,382500,2014,2,9,0,"Kent, Ohio",89,29287,77
+2015,Buffalo,Jeff Quinn,MAC,380210,2014,5,6,0,"Buffalo, New York",84,29013,67
+2015,New Mexico State,Doug Martin,Sun Belt,376044,2014,2,10,0,"Las Cruces, New Mexico",90,30343,67
+2015,Central Michigan,Dan Enos,MAC,360000,2014,7,6,0,"Mount Pleasant, Michigan",91,30255,72
+2015,Louisiana-Monroe,Todd Berry,Sun Belt,357000,2014,4,8,0,"Monroe, Louisiana",81,30427,64
+2015,Appalachian State,Scott Satterfield,Sun Belt,225000,2014,7,5,0,"Boone, North Carolina",106,24050,74
+2015,Temple,Matt Rhule,AAC,,2014,6,6,0,"Philadelphia, Pennsylvania",100,68532,83
+2015,Syracuse,Scott Shafer,ACC,,2014,3,9,0,"Syracuse, New York",83,49250,82
+2015,Vanderbilt,Derek Mason,SEC,,2014,3,9,0,"Nashville, Tennessee",0,41448,90
+2015,Boston College,Steve Addazio,ACC,,2014,7,6,0,"Chestnut Hill, Massachusetts",0,44500,90
+2015,Southern California,Steve Sarkisian,PAC-12,,2014,9,4,0,"Los Angeles, California",166,93607,73
+2015,Brigham Young,Bronco Mendenhall,Ind.,,2014,8,5,0,"Provo, Utah",102,63470,52
+2015,Wake Forest,Dave Clawson,ACC,,2014,3,9,0,"Winston-Salem, North Carolina",84,31500,93
